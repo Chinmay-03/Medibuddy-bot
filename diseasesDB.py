@@ -984,7 +984,7 @@ stuff = [
      """Common causes:
      Alcohol consumption.
      Eating spicy foods.
-     Extereme Sunlight.
+     
      Hot baths.
      Extreme temperatures.
      Intense workout routines.
