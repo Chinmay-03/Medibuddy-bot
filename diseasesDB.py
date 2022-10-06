@@ -428,6 +428,12 @@ stuff = [
      Capsaicin found in cayenne pepper induces sweating and improves blood circulation. This is why the use of cayenne pepper is one of the most useful home remedies for fever.
      Drinking lemon juice in lukewarm water can ward off the fever.""",
      ),
+    ("""Fever blisters""",
+     """home remedies:
+     Apply petroleum jelly to the skin.
+     Apply cold compress on the affected area.
+     Avoid eating nuts and chocolate.""",
+    ),
     ("""Eczema""",
      """""",
      """Common Causes:
