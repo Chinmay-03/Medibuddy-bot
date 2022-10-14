@@ -1034,6 +1034,20 @@ stuff = [
      Inhaling fragrances of essential oils can treat your sore throat.
      Add honey and lemon juice to 1 cup of warm water, as it works best for sore throat."""
      ),
+     ("""Sore Throat""",
+     """""",
+     """Common causes:
+     Running or walking on uneven ground.
+     Wearing high-heeled shoes.
+     Overstretching of a ligament.
+     During a fall.
+     Lifting heavy weight.""",
+     """Home remedies:
+      A mixture of Listerine mouth wash and Hydrogen Peroxide. Pour a little of each liquid into a cup
+      (equal parts) and gargle.
+      Eat three to four marshmallows to soothe a sore throat. The gelatin in the marshmallows is what
+      soothes the sore throat.""",
+     ),
     ("""Sprains""",
      """""",
      """Common causes:
