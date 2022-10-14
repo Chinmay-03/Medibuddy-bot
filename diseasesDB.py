@@ -68,6 +68,13 @@ stuff = [
      Grapes contain a pure form of alcohol. A person wanting to give up this habit should have a meal of grapes every 4-5 hours, for a month at least.
      """
      ),
+    ("Allergic rhinitis ",
+     "",
+     """Causes:
+     Allergic rhinitis is caused by an allergic reaction to an allergen, such as pollen, dust and certain animals.""",
+     """Home Remedies:
+     It's possible to treat the symptoms of mild allergic rhinitis with over-the-counter medications, such as long-acting, non-sedating antihistamines.""",
+     ),
     ("""Anemia""",
      """""",
      """Common Causes:
